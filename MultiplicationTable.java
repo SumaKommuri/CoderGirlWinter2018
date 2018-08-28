@@ -8,8 +8,8 @@ public class MultiplicationTable {
     public static void main(String[] args) {
 
         Scanner keyboard = new Scanner(System.in);
-        out.println("Welcomw to multiplication tables \n");
-        out.println("How large would you like to see them \n");
+        out.println("Welcome to multiplication tables \n");
+        out.println("How large would you like to see them? \n");
         int size = keyboard.nextInt();
         keyboard.skip("\n");
 
